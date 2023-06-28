@@ -1,0 +1,28 @@
+baseURL = "https://example.org/"
+languageCode = "en-us"
+title = "Evento GAE"
+theme = "hugo-arcana"
+copyright = "© Untitled. All rights reserved"
+
+[taxonomies]
+    tag = "tags"
+
+[params]
+    description = "A business/corporate style responsive site template."
+    show_post_dates = false
+    [[params.social]]
+        title = "Facebook"
+        icon = "fa-facebook-f"
+        url = "https://www.facebook.com/UNIRIOGAE"
+    [[params.social]]
+        title = "GitHub"
+        icon = "fa-github"
+        url = "#"
+    [[params.social]]
+        title = "Instagram"
+        icon = "fa-instagram"
+        url = "https://www.instagram.com/gae_assessoria/"
+
+
+       
+       

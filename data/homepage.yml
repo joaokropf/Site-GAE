@@ -1,0 +1,32 @@
+banner:
+  enable: true
+  image: "images/banner2.png"
+  contents: "**Evento GAE Assessoria:** Um encontro sobre estatística."
+items:
+  - type: highlights
+    items_per_row: 3
+    items:
+    - title: O que é?
+      icon: fa-question
+      content: >
+       O evento GAE Assessoria é o encontro que ocorre na UNIRIO 
+    - title: Como participo?
+      icon: fa-user
+      content: >
+        Para participar basta nos seguir em nossas redes sociais para saber quando será o próximo encontro!
+    - title: Quer submeter seu projeto?
+      icon: fa-envelope
+      content: >
+        Encaminhe um e-mail para gaeunirio@gmail.com 
+  - type: heading
+    heading: Eventos passados
+    contents: Materiais disponibilizados de eventos passados
+  - type: posts
+    #heading: Recent Posts
+    content_type: posts
+    max: 4
+  - type: cta
+    contents: 
+    button:
+      contents: 
+      url: "#"
