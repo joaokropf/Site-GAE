@@ -2,10 +2,7 @@ baseURL = "https://example.org/"
 languageCode = "en-us"
 title = "Evento GAE"
 theme = "hugo-arcana"
-copyright = "© Untitled. All rights reserved"
-
-[taxonomies]
-    tag = "tags"
+copyright = "© Powered by @joaokropf"
 
 [params]
     description = "A business/corporate style responsive site template."
@@ -15,14 +12,10 @@ copyright = "© Untitled. All rights reserved"
         icon = "fa-facebook-f"
         url = "https://www.facebook.com/UNIRIOGAE"
     [[params.social]]
-        title = "GitHub"
+        title = "Github"
         icon = "fa-github"
-        url = "#"
+        url = "http://gae.uniriotec.br/"
     [[params.social]]
         title = "Instagram"
         icon = "fa-instagram"
-        url = "https://www.instagram.com/gae_assessoria/"
-
-
-       
-       
+        url = "https://www.instagram.com/gae_assessoria/"     

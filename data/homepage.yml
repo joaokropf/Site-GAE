@@ -9,15 +9,15 @@ items:
     - title: O que é?
       icon: fa-question
       content: >
-       O evento GAE Assessoria é o encontro que ocorre na UNIRIO 
+       O Evento GAE Assessoria é um ação do projeto de extensão Grupo de Apoio Estatístico - GAE Assessoria, desenvolvido quinzenalmente para a discussão de aspectos metodológicos em pesquisas científicas, gestão institucional e para a comunidade.
     - title: Como participo?
       icon: fa-user
       content: >
-        Para participar basta nos seguir em nossas redes sociais para saber quando será o próximo encontro!
+        Nossos eventos acontecem quinzenalmente na sala 202-N do CCET na UNIRIO. Para participar basta nos seguir em nossas redes sociais para saber quando será o próximo encontro.
     - title: Quer submeter seu projeto?
       icon: fa-envelope
       content: >
-        Encaminhe um e-mail para gaeunirio@gmail.com 
+        Encaminhe um e-mail para gaeunirio@gmail.com com uma breve descrição de seu projeto e entraremos em contato.
   - type: heading
     heading: Eventos passados
     contents: Materiais disponibilizados de eventos passados

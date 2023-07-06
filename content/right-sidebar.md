@@ -3,27 +3,14 @@ title: "Quem Somos?"
 description: "Conheça a equipe por trás do GAE!"
 menu: main
 weight: 60
-image: images/equipe_gae.jpg
+image: images/gaeequipe.jpg
 image_alt: ""
+sidebar_left: sidebar1
 ---
-Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus.
-Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat.
-Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi
-consequat etiam lorem ipsum dolor sit amet nullam.
+No GAE, contamos com uma equipe de especialistas altamente qualificados e apaixonados pela ciência estatística. Nossos profissionais possuem vasta experiência acadêmica e prática, o que nos permite abranger uma ampla gama de áreas.
 
-### And Yet Another Subheading
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus
-justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem. Pellentesque lorem felis,
-ultricies a bibendum id, bibendum sit amet nisl. Mauris et lorem quam. Maecenas rutrum imperdiet
-vulputate. Nulla quis nibh ipsum, sed egestas justo. Morbi ut ante mattis orci convallis tempor.
-Etiam a lacus a lacus pharetra porttitor quis accumsan odio. Sed vel euismod nisi. Etiam convallis
-rhoncus dui quis euismod. Maecenas lorem tellus, congue et condimentum ac, ullamcorper non sapien.
-Donec sagittis massa et leo semper a scelerisque metus faucibus. Morbi congue mattis mi.
-Phasellus sed nisl vitae risus tristique volutpat. Cras rutrum commodo luctus.
+Acreditamos na importância de aliar conhecimento teórico e experiência prática para fornecer soluções estatísticas eficientes e confiáveis. Nossa equipe está constantemente atualizada com as últimas tendências e avanços no campo da estatística, garantindo que possamos enfrentar desafios complexos com rigor metodológico.
 
-Phasellus odio risus, faucibus et viverra vitae, eleifend ac purus. Praesent mattis, enim
-quis hendrerit porttitor, sapien tortor viverra magna, sit amet rhoncus nisl lacus nec arcu.
-Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt. Mauris dolor urna,
-fringilla vel malesuada ac, dignissim eu mi. Praesent mollis massa ac nulla pretium pretium.
-Maecenas tortor mauris, consectetur pellentesque dapibus eget, tincidunt vitae arcu.
-Vestibulum purus augue, tincidunt sit amet iaculis id, porta eu purus.
+Ao longo de mais de oito anos de atuação, temos ajudado professores, pesquisadores e instituições acadêmicas a extrair insights significativos de seus dados, realizar análises estatísticas robustas e tomar decisões embasadas. Nossa experiência em modelagem quantitativa nos permite enfrentar desafios complexos, explorar padrões e identificar tendências relevantes.
+
+Equipe GAE - Grupo de Apoio Estatístico
