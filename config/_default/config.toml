@@ -1,4 +1,4 @@
-baseURL = "https://example.org/"
+baseURL = "eventogae.netlify.app"
 languageCode = "en-us"
 title = "Evento GAE"
 theme = "hugo-arcana"
