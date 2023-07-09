@@ -5,7 +5,7 @@ theme = "hugo-arcana"
 copyright = " Powered by @joaokropf"
 
 [params]
-    description = "Site voltado para o Evento GAE Assessoria."
+    description = ""
     show_post_dates = false
     [[params.social]]
         title = "Facebook"
