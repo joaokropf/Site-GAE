@@ -1,8 +1,8 @@
-baseURL = "eventogae.netlify.app"
-languageCode = "en-us"
+baseURL = ""
+languageCode = "pt-br"
 title = "Evento GAE"
 theme = "hugo-arcana"
-copyright = "© Powered by @joaokropf"
+copyright = " Powered by @joaokropf"
 
 [params]
     description = "A business/corporate style responsive site template."
