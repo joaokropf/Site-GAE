@@ -1,7 +1,7 @@
 ---
 title: Encontro GAE Assessoria - 10 de Julho 2023
 image: images/gae7.png
-date: "2020-01-05T00:00:00"
+date: "2021-01-05T00:00:00"
 ---
 No dia 10 de Julho, o Encontro GAE Assessoria proporcionou uma tarde repleta de aprendizado e troca de conhecimentos. Profissionais e entusiastas se reuniram na sala 202N para participar desse evento enriquecedor. Neste post, vamos relembrar as apresentações que ocorreram e explorar os temas fascinantes discutidos durante o encontro.
 
