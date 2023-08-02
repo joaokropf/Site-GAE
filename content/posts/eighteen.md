@@ -1,5 +1,5 @@
 ---
-title: Encontro GAE Assessoria - 10 de Julho 2023
+title: Encontro GAE Assessoria - 24 de Julho 2023
 image: images/gae8.png
 date: "2021-01-05T00:00:00"
 ---
